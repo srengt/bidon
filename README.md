@@ -1,2 +1,2 @@
 # bidon
-Test and learnin repository
+Test and learning repository
