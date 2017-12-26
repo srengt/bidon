@@ -5,3 +5,6 @@ Monopoly
 Blokus
 L'île interdite
 Le volcan aux rubis
+Scrabble
+Pandémie
+Brave rats
