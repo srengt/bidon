@@ -5,3 +5,5 @@ Monopoly
 Blokus
 L'île interdite
 Le volcan aux rubis
+Uno
+Le verger
