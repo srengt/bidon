@@ -13,7 +13,7 @@ Le verger
 
 J'ajoute sur la branche principale.
 Des vêtements:
-T-shirt
+T-shirts (correction du s)
 Sweart-shirts
 
 Test dans une nouvelle branche.
